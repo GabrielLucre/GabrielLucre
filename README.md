@@ -1,4 +1,4 @@
-# Olá, sou [Seu Nome] 👋
+# Olá, sou Gabriel!👋
 <img src="https://raw.githubusercontent.com/GabrielLucre/GabrielLucre/main/sung-jin-woo-banner.png" alt="Banner de Sung Jin-Woo"/>
 
 ### ⚔️ Sobre mim
@@ -26,8 +26,8 @@
 ### 🌑 Estatísticas como Caçador
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dark&hide_border=true&icon_color=purple&title_color=purple" alt="Estatísticas do GitHub" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeuUsuario&theme=dark&hide_border=true&stroke=purple" alt="Streak Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielLucre&show_icons=true&theme=dark&hide_border=true&icon_color=purple&title_color=purple" alt="Estatísticas do GitHub" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielLucre&theme=dark&hide_border=true&stroke=purple" alt="Streak Stats" width="400"/>
 </p>
 
 ---
@@ -35,15 +35,15 @@
 ### 🧬 "Subindo de nível" nas linguagens
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=dark&title_color=purple&hide_border=true" alt="Linguagens Mais Usadas" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLucre&layout=compact&theme=dark&title_color=purple&hide_border=true" alt="Linguagens Mais Usadas" width="400"/>
 </p>
 
 ---
 
 ### 🌟 Projetos em destaque
 
-- [Projeto 1](https://github.com/SeuUsuario/Projeto1) - Um projeto que explora o poder das sombras no desenvolvimento.
-- [Projeto 2](https://github.com/SeuUsuario/Projeto2) - Subindo de nível através da escalabilidade e performance.
+- [Projeto 1](https://github.com/GabrielLucre/Projeto1) - Um projeto que explora o poder das sombras no desenvolvimento.
+- [Projeto 2](https://github.com/GabrielLucre/Projeto2) - Subindo de nível através da escalabilidade e performance.
 
 ---
 
