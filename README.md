@@ -1,5 +1,5 @@
 # Olá, sou [Seu Nome] 👋
-<img src="https://raw.githubusercontent.com/GabrielLucre/GabrielLucre/main/sung-jin-woo-banner.png" alt="Banner de Sung Jin-Woo" />
+<img src="https://raw.githubusercontent.com/GabrielLucre/GabrielLucre/main/sung-jin-woo-banner.png" alt="Banner de Sung Jin-Woo" style="margin-bottom: -20px;" />
 
 ### ⚔️ Sobre mim
 
