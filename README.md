@@ -39,6 +39,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/SeuPerfil/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/SeuUsuario"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/SeuUsuario"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://seuwebsite.com"><img src="https://img.shields.io/badge/-Website-%23000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
