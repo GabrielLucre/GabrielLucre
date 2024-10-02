@@ -1,10 +1,6 @@
 
 # Olá, sou [Seu Nome] 👋
-
 <img src="https://raw.githubusercontent.com/GabrielLucre/GabrielLucre/main/sung-jin-woo-banner.png" alt="Banner de Sung Jin-Woo" />
-
----
-
 ### ⚔️ Sobre mim
 
 - 🔥 "Eu continuo a subir..." — Sung Jin-Woo
