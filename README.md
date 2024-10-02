@@ -1,16 +1,15 @@
 # Olá, sou Gabriel!👋
 <img src="https://raw.githubusercontent.com/GabrielLucre/GabrielLucre/main/sung-jin-woo-banner.png" alt="Banner de Sung Jin-Woo"/>
 
-### ⚔️ Sobre mim
+### Sobre mim
 
-- 🔥 "Eu continuo a subir..." — Sung Jin-Woo
-- 🛠️ Desenvolvedor focado em tecnologias emergentes e escalabilidade.
-- 🖥️ Sempre buscando novas habilidades e "subindo de nível" em cada projeto.
-- 🌑 Explorando as profundezas da programação como Sung Jin-Woo explora o mundo das sombras.
+- 🎓 Estudante de Desenvolvimento de Sistemas na ETEC Terezinha Monteiro dos Santos
+- 👨‍💻 Desenvolvedor focado em Back-end | Web Develop
+- 🌱 Atualmente aprendendo JavaScript
 
 ---
 
-### 🌑 Minhas Habilidades
+### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -23,20 +22,9 @@
 
 ---
 
-### 🌑 Estatísticas como Caçador
+### 📈 Minhas estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielLucre&show_icons=true&theme=dark&hide_border=true&icon_color=purple&title_color=purple" alt="Estatísticas do GitHub" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielLucre&theme=dark&hide_border=true&stroke=purple" alt="Streak Stats" width="400"/>
-</p>
-
----
-
-### 🧬 "Subindo de nível" nas linguagens
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLucre&layout=compact&theme=dark&title_color=purple&hide_border=true" alt="Linguagens Mais Usadas" width="400"/>
-</p>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?GabrielLucre=SeuUsuario&show_icons=true&theme=radical)
 
 ---
 
@@ -47,7 +35,7 @@
 
 ---
 
-### 🌌 Conecte-se nas sombras
+### 🌐 Conecte-se comigo:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/SeuPerfil/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
