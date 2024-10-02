@@ -4,7 +4,7 @@
 ### Sobre mim
 
 - 🎓 Estudante de Desenvolvimento de Sistemas na ETEC Terezinha Monteiro dos Santos
-- 👨‍💻 Desenvolvedor focado em Back-end | Web Develop
+- 👨‍💻 Desenvolvedor focado em Back-end | Web Developer
 - 🌱 Atualmente aprendendo JavaScript
 
 ---
@@ -24,7 +24,7 @@
 
 ### 📈 Minhas estatísticas do GitHub
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?GabrielLucre=SeuUsuario&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLucre&show_icons=true&theme=radical)
 
 ---
 
