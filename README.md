@@ -1,5 +1,5 @@
 # Olá, sou Gabriel!👋
-<img src="https://raw.githubusercontent.com/GabrielLucre/GabrielLucre/main/sung-jin-woo-banner.png" alt="Banner de Sung Jin-Woo"/>
+![Banner de Sung Jin-Woo](https://raw.githubusercontent.com/GabrielLucre/GabrielLucre/main/sung-jin-woo-banner.png)
 
 ### Sobre mim
 
