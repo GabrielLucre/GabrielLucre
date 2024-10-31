@@ -25,7 +25,7 @@
 
 ### 📈 Minhas estatísticas do GitHub
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLucre&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLucre&theme=radical)
 
 ---
 
