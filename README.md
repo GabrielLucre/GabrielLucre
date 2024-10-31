@@ -5,7 +5,7 @@
 
 - 🎓 Estudante de Desenvolvimento de Sistemas na ETEC Terezinha Monteiro dos Santos
 - 👨‍💻 Desenvolvedor focado em Back-end | Web Developer
-- 🌱 Atualmente aprendendo JavaScript
+- 🌱 Atualmente aprendendo React
 
 ---
 
