@@ -33,8 +33,8 @@
 
 ### 🌟 Projetos em destaque
 
-- [Projeto 1](https://github.com/GabrielLucre/react-previsao) - Um projeto muito legal de um site com uma API que puxa os dados do tempo das cidades
-- [Projeto 2](https://github.com/GabrielLucre/Projeto2) - Subindo de nível através da escalabilidade e performance.
+- [Previsão de Tempo](https://github.com/GabrielLucre/react-previsao) - Um projeto muito legal de um site com uma API que puxa os dados do tempo das cidades
+- [Git Hub User Search](https://github.com/GabrielLucre/github-user-search) - Site que usa a API do Git Hub para buscar usuários e mostrar seus repositórios mais avaliados
 
 ---
 
