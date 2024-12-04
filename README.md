@@ -6,7 +6,7 @@
 ### Sobre mim
 
 - 🎓 Estudante de Desenvolvimento de Sistemas na ETEC Terezinha Monteiro dos Santos
-- 👨‍💻 Desenvolvedor focado em Back-end | Front-end
+- 👨‍💻 Desenvolvedor Full Stack
 - 🌱 Atualmente aprendendo React
 
 ---
@@ -33,7 +33,7 @@
 
 ### 🌟 Projetos em destaque
 
-- [Projeto 1](https://github.com/GabrielLucre/Projeto1) - Um projeto que explora o poder das sombras no desenvolvimento.
+- [Projeto 1](https://github.com/GabrielLucre/react-previsao) - Um projeto muito legal de um site com uma API que puxa os dados do tempo das cidades
 - [Projeto 2](https://github.com/GabrielLucre/Projeto2) - Subindo de nível através da escalabilidade e performance.
 
 ---
