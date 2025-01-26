@@ -1,17 +1,17 @@
-# 🍪 Pegue o seu cookie!
+# 🍪 Grab Your Cookie!
 
-# Olá, sou Gabriel!👋
+# Hi, I'm Gabriel!👋
 ![Banner de Sung Jin-Woo](https://raw.githubusercontent.com/GabrielLucre/GabrielLucre/main/sung-jin-woo-banner.png)
 
-### Sobre mim
+### About Me
 
-- 🎓 Estudante de Desenvolvimento de Sistemas na ETEC Terezinha Monteiro dos Santos
-- 👨‍💻 Desenvolvedor Full Stack
-- 🌱 Atualmente aprendendo TypeScript
+- 🎓 Student of Systems Development at ETEC Terezinha Monteiro dos Santos
+- 👨‍💻 Full Stack Developer
+- 🌱 Currently learning TypeScript
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -27,20 +27,20 @@
 
 ---
 
-### 📈 Minhas estatísticas do GitHub
+### 📈 My GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLucre&show_icons=true&theme=radical&hide=commits)
 
 ---
 
-### 🌟 Projetos em destaque
+### 🌟 Featured Projects
 
-- [Previsão de Tempo](https://github.com/GabrielLucre/react-previsao) - Um projeto muito legal de um site com uma API que puxa os dados do tempo das cidades
-- [Git Hub User Search](https://github.com/GabrielLucre/github-user-search) - Site que usa a API do Git Hub para buscar usuários e mostrar seus repositórios mais avaliados
+- [Previsão de Tempo](https://github.com/GabrielLucre/react-previsao) - A cool project for a website that uses an API to fetch weather data for cities
+- [Git Hub User Search](https://github.com/GabrielLucre/github-user-search) - A website that uses the GitHub API to search for users and display their top-rated repositories
 
 ---
 
-### 🌐 Conecte-se comigo:
+### 🌐 Connect with Me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gabriellucrecio/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
