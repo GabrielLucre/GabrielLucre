@@ -5,7 +5,7 @@
 
 - 🎓 Student of Systems Development at ETEC Terezinha Monteiro dos Santos
 - 👨‍💻 Full Stack Developer
-- 🌱 Currently learning TypeScript
+- 🌱 Currently learning Angular
 
 ---
 
