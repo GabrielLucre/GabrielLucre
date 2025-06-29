@@ -47,5 +47,5 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/gabriellucrecio/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/gabriel.lucrecio/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://gabriellucre.vercel.com"><img src="https://img.shields.io/badge/-Website-%23000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://gabriellucre.vercel.app"><img src="https://img.shields.io/badge/-Website-%23000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
